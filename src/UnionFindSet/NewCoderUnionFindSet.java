@@ -9,6 +9,10 @@ import java.io.PrintWriter;
 import java.io.StreamTokenizer;
 
 // 注意类名必须为 Main, 不要有任何 package xxx 信息
+
+
+// https://www.nowcoder.com/practice/e7ed657974934a30b2010046536a5372
+
 public class NewCoderUnionFindSet {
     public static int MAXN = 1000001;
     public static int[] father = new int[MAXN];
